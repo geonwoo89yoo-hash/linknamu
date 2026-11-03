@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-script: var(--font-great-vibes);
+  --font-serif: var(--font-cormorant);
+  --color-paper: #ebe7e1;
+  --color-ink: #1c1b1a;
+}
+
+body {
+  background-color: var(--color-paper);
+  color: var(--color-ink);
+}

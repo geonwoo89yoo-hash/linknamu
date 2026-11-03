@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 224" preserveAspectRatio="xMidYMid slice">
+  <!-- 더미 커버 이미지: 나중에 실제 사진(예: /cover.jpg)으로 교체하세요. -->
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d8d4ce"/>
+      <stop offset="1" stop-color="#b9b3ab"/>
+    </linearGradient>
+  </defs>
+  <rect width="448" height="224" fill="url(#sky)"/>
+  <path d="M0 120c60-18 110-10 160 0s120 14 180 0 80-10 108-4v108H0z" fill="#9d968d"/>
+  <path d="M0 160c70-14 140-6 220 4s150 6 228-6v66H0z" fill="#8a8178"/>
+</svg>
